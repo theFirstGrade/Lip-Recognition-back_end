@@ -1,0 +1,11 @@
+python 3.7.2 
+Package installation:
+1.cv2: pip install opencv_python
+2.PIL: pip install pillow 
+3.scipy: pip install scipy
+4.numpy: pip install numpy
+5.pylab: (install matplotlib) install numpy and scipy at first
+6.skimage: pip install scikit-image
+7.xlwt: pip install xlwt
+8.Cmake: pip install CMake
+9.Dlib: shape_predictor_68_face_landmarks.dat

@@ -1,0 +1,81 @@
+
+~  Overview:
+略
+
+~  Gameplay mechanics:
+1.保存/加载机制
+2.游戏中途暂停调整设置
+3.中远距离的第三人称视角
+4.控制系统
+5.Action
+5.1 对话
+5.2 使用工具
+5.3 补全日记
+5.4 选择造型
+6. Outcome
+提一下我们通关要求
+6.1 当前关卡进度
+6.2 日记的完成度
+6.3 道具收集
+
+~  Game world behavior:
+Environment
+1.游玩场景
+2.地图 -- 选择关卡
+3.日记 -- 玩家在此页面补全日记
+
+NPCs
+1.每个游玩场景包含特定的npc
+2.npc负责与玩家交流(包括提示和提供道具)
+
+Players
+1.继续说他的操作
+2.玩家需要完成日记才能够解锁新的关卡
+
+~  Game elements
+Artificial intelligence
+先略
+
+Animation
+地图场景
+1.海浪和船的移动
+游玩场景
+1.玩家的移动
+2.对话
+3.使用道具
+日记场景
+1.填写正确和错误的效果
+
+Graphics
+1.2D，卡通，像素的
+2.平行光
+3.UI简洁，颜色统一
+
+Sound
+BGM
+Sound effect
+
+User Interface
+1.选择人物页(点击new game跳转，有三个不同肤色人物选择)
+2.地图页
+3.游戏页
+4.日记页
+5.道具图鉴
+
+7.settings,developers(保留)
+
+~  Game progression
+1.故事背景
+2.选关卡的故事
+3.进入下一关的故事
+4.完成所有关卡的故事
+
+~  System menus and options
+System menus
+1.封面页(new game,load,settings,developers,exit)
+2.中途暂停页(取消，主动保存，设置，退出关卡)
+3.道具图鉴
+System options
+音量，分辨率，是否全屏，两套建委，语言
+
+

@@ -1,0 +1,21 @@
+python 3
+
+1.Firstly, you need to install python3 in your computer. Then install these packages (Packages.txt file).
+
+******************************************************************************************************************
+There are six python files:  Main.py, Frame.py, ROI.py, TPE.py, Gabor.py and Features.py.
+
+1. Main.py. Several paths need to be changed according to your own folder.   !!!
+
+2. Frame.py. Cut frames from one video. (Picture folder)
+
+3. ROI.py. Choose the ROI according to Dlib 68 point. (Mouth folder)
+
+4. TPE.py. Obtain most suitable Gabor parameters.   
+Gabor_Path = 'TPEH.jpg'. You can keep it or change it into your path.    !!!
+
+5. Gabor.py uses best Gabor parameters to generate gabor features. (Gabor folder)
+
+6. Features.py.  Get 7 features of the lips. (Feature, Sheet folders)
+********************************************************************************************************************
+2. run 'Main.py '
